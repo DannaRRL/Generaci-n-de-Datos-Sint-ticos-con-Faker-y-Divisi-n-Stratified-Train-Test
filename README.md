@@ -1,1 +1,1 @@
-# Generaci-n-de-Datos-Sint-ticos-con-Faker-y-Divisi-n-Stratified-Train-Test
+# Generación de Datos Sintéticos con Faker y División Stratified Train-Test
